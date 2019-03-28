@@ -227,6 +227,18 @@ public class BST<E extends Comparable<E>> {
 		return node;
 	}
 
+	// 从二分搜索树中删除元素为e的节点
+	public void remove(E e) {
+		root = remove(root, e);
+	}
+
+	// 删除掉以node为根的二分搜索树中值为e的节点, 递归算法
+	// 返回删除节点后新的二分搜索树的根
+	private Node remove(Node node, E e) {
+
+		return node;
+	}
+
 	@Override
 	public String toString() {
 		StringBuilder res = new StringBuilder();
