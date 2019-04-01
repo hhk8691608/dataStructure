@@ -22,5 +22,7 @@
   <modules>
   	<module>mk_LinkedList</module>
   	<module>mk_BinarySearchTree</module>
+  	<module>mk_HeapAndPriorityQueue</module>
+  	<module>mk_AVLTree</module>
   </modules>
 </project>
