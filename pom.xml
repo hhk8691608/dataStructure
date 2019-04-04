@@ -24,5 +24,7 @@
   	<module>mk_BinarySearchTree</module>
   	<module>mk_HeapAndPriorityQueue</module>
   	<module>mk_AVLTree</module>
+  	<module>mk_RedBlackTree</module>
+  	<module>mk_HashTableImplementation</module>
   </modules>
 </project>
